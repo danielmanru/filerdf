@@ -35,17 +35,17 @@
 
 	<rdf:Description
 		rdf:about ="https://www.tokopedia.com/find/dell-latitude-e6410-core-i5">
-		<lap:gambar>https://danielmanru.github.io/filerdf/dell-laptop.png</lap:gambar>
-		<lap:nama>Dell Latitude E6410</lap:nama> 
-		<lap:vga>Intel HD</lap:vga>
-		<lap:processor>Intel® Core™ i5</lap:processor>
-		<lap:os>Windows 10</lap:os>
-		<lap:ram>4GB up to 8GB</lap:ram>
-		<lap:storage>HDD 320GB</lap:storage>
-		<lap:baterai>Li-ion 11.1Volt – 58Wh 5200mAh</lap:baterai>
-		<lap:layar>14"</lap:layar>
-		<lap:resolution>HD</lap:resolution>
-		<lap:harga>2.400.000</lap:harga>
+		<lap:gambar>https://id-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/c/0/c06962672_intel_evo_icon.png</lap:gambar>
+		<lap:nama>HP Elite Dragonfly G2 Notebook PC</lap:nama> 
+		<lap:vga>Intel® Iris® Xᵉ Graphics</lap:vga>
+		<lap:processor>Intel® Evo™ platform 11th Gen Intel® Core™ i7 processor</lap:processor>
+		<lap:os>Windows 10 Pro 64</lap:os>
+		<lap:ram>16 GB LPDDR4x-4266 MHzB</lap:ram>
+		<lap:storage>1 TB PCIe® NVMe™ TLC SSD</lap:storage>
+		<lap:baterai>HP Long Life 4-cell, 56 Wh Li-ion</lap:baterai>
+		<lap:layar>13.3"</lap:layar>
+		<lap:resolution>FHD</lap:resolution>
+		<lap:harga>40.200.000</lap:harga>
 	</rdf:Description>
 
 	<rdf:Description
