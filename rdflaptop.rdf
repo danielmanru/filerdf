@@ -5,7 +5,7 @@
 
 	<rdf:Description
 		rdf:about ="https://www.asus.com/id/Laptops/For-Home/Vivobook/Vivobook-14-K413/">
-		<lap:gambar>https://lilreel.github.io/uaslabpw2/ASUS%20TUF%20Dash%20F15%20(FX516).jpg</lap:gambar>
+		<lap:gambar>https://dlcdnwebimgs.asus.com/gain/ba3d1966-0081-4ee2-ad23-1236a3bff982/w800</lap:gambar>
 		<lap:nama>ASUS Vivobook Ultra 14 K413FQ</lap:nama> 
 		<lap:vga>NVIDIA® GeForce® MX350 ,2GB GDDR5</lap:vga>
 		<lap:processor>Intel® Core™ i7-10510U 1.8 GHz (8M Cache, up to 4.9 GHz)</lap:processor>
