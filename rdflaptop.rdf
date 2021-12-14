@@ -20,7 +20,7 @@
 
 	<rdf:Description
 		rdf:about ="https://www.hp.com/id-id/shop/hp-pavilion-gaming-laptop-15-ec2010ax-427k1pa.html">
-		<lap:gambar>https://lilreel.github.io/uaslabpw2/HP%20Pavilion%2015-ec2010AX.jpeg</lap:gambar>
+		<lap:gambar>https://id-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/c/0/c06440894_3.png</lap:gambar>
 		<lap:nama>HP Pavilion 15-ec2010AX</lap:nama> 
 		<lap:vga>NVIDIA® GeForce RTX™ 3050</lap:vga>
 		<lap:processor>AMD Ryzen™ 5 5600H clock boost hingga 4,2 GHz</lap:processor>
@@ -35,7 +35,7 @@
 
 	<rdf:Description
 		rdf:about ="https://www.tokopedia.com/find/dell-latitude-e6410-core-i5">
-		<lap:gambar>https://lilreel.github.io/uaslabpw2/Dell%20Latitude%20E6410.jpeg</lap:gambar>
+		<lap:gambar>https://i.dell.com/das/dih.ashx/500x500/das/xa_____/global-site-design%20WEB/3138620b-3057-1010-f23a-88c75e0c2c20/1/OriginalJPG?id=Dell/Product_Images/Dell_Client_Products/Notebooks/Latitude_Notebooks/Latitude_E6410/front_facing/laptop-latitude-e6410-overhead-relativesized-500.psd</lap:gambar>
 		<lap:nama>Dell Latitude E6410</lap:nama> 
 		<lap:vga>Intel HD</lap:vga>
 		<lap:processor>Intel® Core™ i5</lap:processor>
@@ -50,7 +50,7 @@
 
 	<rdf:Description
 		rdf:about ="https://www.asus.com/id/Laptops/For-Home/Everyday-use/ASUS-M409/">
-		<lap:gambar>https://lilreel.github.io/uaslabpw2/Asus%20M409DA.jpeg</lap:gambar>
+		<lap:gambar>https://dlcdnwebimgs.asus.com/gain/b430860f-fa1f-42db-835e-4791a3555818/w800</lap:gambar>
 		<lap:nama>Asus M409DA</lap:nama> 
 		<lap:vga>AMD Radeon Vega 3 Graphics</lap:vga>
 		<lap:processor>AMD Ryzen 3 3200U (2.60 – 3.50 GHz, 1 MB Cache)</lap:processor>
@@ -65,7 +65,7 @@
 
 	<rdf:Description
 		rdf:about ="https://www.asus.com/id/Laptops/For-Home/Vivobook/Vivobook-S14-S433/">
-		<lap:gambar>https://lilreel.github.io/uaslabpw2/ASUS%20Vivobook%20S14%20S433.jpeg</lap:gambar>
+		<lap:gambar>https://dlcdnwebimgs.asus.com/gain/7ed0542b-234d-4970-85d7-39012107f96b/w800</lap:gambar>
 		<lap:nama>ASUS Vivobook S14 S433</lap:nama> 
 		<lap:vga>NVIDIA GeForce Mxi7-10510U</lap:vga>
 		<lap:processor>Intel Core i5-10210U / Intel Core i7-10510U</lap:processor>
@@ -80,7 +80,7 @@
 
 	<rdf:Description
 		rdf:about ="https://store.acer.com/en-id/swift-5-sf-514-54gt-nx.hu5sn.001">
-		<lap:gambar>https://lilreel.github.io/uaslabpw2/Acer%20Swift%205.jpeg</lap:gambar>
+		<lap:gambar>https://static-ecapac.acer.com/media/catalog/product/cache/a17a77e026ef2eddd3ecae104c32cc71/_/r/_rescale_acer-swift-5-sf514-54-wp-blue-01_1.png</lap:gambar>
 		<lap:nama>Acer Swift 5 (SF514-54GT)</lap:nama> 
 		<lap:vga>Nvidia GeForce MX350 (2GB GDDR5 VRAM)</lap:vga>
 		<lap:processor>Intel® Core™ i7-1065G7</lap:processor>
@@ -95,7 +95,7 @@
 
 	<rdf:Description
 		rdf:about ="https://www.bhinneka.com/asus-tuf-gaming-dash-f15-fx516pe-i7r5b6t-o-eclipse-gray-sku3337393641">
-		<lap:gambar>https://lilreel.github.io/uaslabpw2/ASUS%20TUF%20Dash%20F15%20(FX516).jpg</lap:gambar>
+		<lap:gambar>https://dlcdnwebimgs.asus.com/gain/15d0f62e-8b6b-4acd-b938-1bfbd908cb67/w800</lap:gambar>
 		<lap:nama>ASUS TUF Dash F15 (FX516)</lap:nama> 
 		<lap:vga>NVIDIA GeForce RTX 3050 Ti 4GB</lap:vga>
 		<lap:processor>Intel Core i7-11370H Processor 3.3 GHz, 4 cores (12M Cache, up to 4.8GHz)</lap:processor>
@@ -110,7 +110,7 @@
 
 	<rdf:Description
 		rdf:about ="https://rog.asus.com/id/laptops/rog-strix/2021-rog-strix-g15-series/">
-		<lap:gambar>https://lilreel.github.io/uaslabpw2/ASUS%20ROG%20Strix%20G15G513.jpeg</lap:gambar>
+		<lap:gambar>https://dlcdnwebimgs.asus.com/gain/C724D1AF-4D73-4A95-9E58-4B33B38F2F89/w1000/h732</lap:gambar>
 		<lap:nama>ASUS ROG Strix G15 G513</lap:nama> 
 		<lap:vga>RTX3060_V6G</lap:vga>
 		<lap:processor>AMD Ryzen™ 7 4800H</lap:processor>
@@ -125,7 +125,7 @@
 
 	<rdf:Description
 		rdf:about ="https://www.bhinneka.com/asus-rog-zephyrus-g14-ga401ii-r55ta8g-eclipse-gray-sku0013681075">
-		<lap:gambar>https://lilreel.github.io/uaslabpw2/ASUS%20ROG%20Zephyrus%20G14%20GA401II-R55TA8G.jpg</lap:gambar>
+		<lap:gambar>https://dlcdnwebimgs.asus.com/gain/240A80BA-EBF7-443F-90EA-119116DA83D3/w1000/h732</lap:gambar>
 		<lap:nama>ASUS ROG Zephyrus G14 GA401II-R55TA8G</lap:nama> 
 		<lap:vga>NVIDIA GeForce GTX 1650 Ti 4GB</lap:vga>
 		<lap:processor>AMD Ryzen 5 4600H Processor 3.0 GHz (8M Cache, up to 4.0 GHz)</lap:processor>
@@ -140,7 +140,7 @@
 
 	<rdf:Description
 		rdf:about ="https://www.bhinneka.com/lenovo-legion-y530-15ich-81fv0110id-black-sku0017107988">
-		<lap:gambar>https://lilreel.github.io/uaslabpw2/LENOVO%20Legion%20Y530-15ICH%2081FV0110ID.jpg</lap:gambar>
+		<lap:gambar>https://www.lenovo.com/medias/lenovo-laptop-legion-y530-gallery-1.jpg?context=bWFzdGVyfHJvb3R8Mzg2NDZ8aW1hZ2UvanBnfGhmMi9oNWUvOTcyNTk5ODMzMzk4Mi5qcGd8NDMxMWNmZjI4YzkyMTQxZTlhZWM3MGI3MTAxYzhlY2MxMjU2ZGE3YjI1YmUzOWU4Njk0ZDgxMjIwMDc5ZjAxNA</lap:gambar>
 		<lap:nama>LENOVO Legion Y530-15ICH 81FV0110ID - Black</lap:nama> 
 		<lap:vga>NVIDIA GeForce GTX1050 Ti 4GB</lap:vga>
 		<lap:processor>Intel Core i5-8300H</lap:processor>
