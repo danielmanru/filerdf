@@ -153,19 +153,6 @@
 		<lap:harga>14.000.000</lap:harga>
 	</rdf:Description>
 
-	<rdf:Description
-		rdf:about ="">
-		<lap:gambar> </lap:gambar>
-		<lap:nama> </lap:nama> 
-		<lap:vga> </lap:vga>
-		<lap:processor> </lap:processor>
-		<lap:os> </lap:os>
-		<lap:ram> </lap:ram>
-		<lap:storage></lap:storage>
-		<lap:baterai></lap:baterai>
-		<lap:layar> </lap:layar>
-		<lap:resolution> </lap:resolution>
-		<lap:harga></lap:harga>
-	</rdf:Description>
+	
 
 	
