@@ -35,7 +35,7 @@
 
 	<rdf:Description
 		rdf:about ="https://www.tokopedia.com/find/dell-latitude-e6410-core-i5">
-		<lap:gambar>https://i.dell.com/das/dih.ashx/500x500/das/xa_____/global-site-design%20WEB/3138620b-3057-1010-f23a-88c75e0c2c20/1/OriginalJPG?id=Dell/Product_Images/Dell_Client_Products/Notebooks/Latitude_Notebooks/Latitude_E6410/front_facing/laptop-latitude-e6410-overhead-relativesized-500.psd</lap:gambar>
+		<lap:gambar>https://i.dell.com/das/dih.ashx/500x500/das/xa_____/global-site-design%20WEB/6bc660a6-6c80-6797-d61f-8a2cd3860742/1/OriginalPng?id=Dell/Product_Images/Dell_Client_Products/Notebooks/Latitude_Notebooks/Latitude_E6410/front_facing/laptop-latitude-e6410-overhead-relativesized-500.psd</lap:gambar>
 		<lap:nama>Dell Latitude E6410</lap:nama> 
 		<lap:vga>Intel HD</lap:vga>
 		<lap:processor>Intel® Core™ i5</lap:processor>
