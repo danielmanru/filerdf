@@ -140,7 +140,7 @@
 
 	<rdf:Description
 		rdf:about ="https://www.bhinneka.com/lenovo-legion-y530-15ich-81fv0110id-black-sku0017107988">
-		<lap:gambar>https://www.lenovo.com/medias/lenovo-laptop-legion-y530-gallery-1.jpg?context=bWFzdGVyfHJvb3R8Mzg2NDZ8aW1hZ2UvanBnfGhmMi9oNWUvOTcyNTk5ODMzMzk4Mi5qcGd8NDMxMWNmZjI4YzkyMTQxZTlhZWM3MGI3MTAxYzhlY2MxMjU2ZGE3YjI1YmUzOWU4Njk0ZDgxMjIwMDc5ZjAxNA</lap:gambar>
+		<lap:gambar>https://www.lenovo.com/medias/lenovo-laptop-legion-y530-feature-1.jpg?context=bWFzdGVyfHJvb3R8NjQ2MDB8aW1hZ2UvanBlZ3xoY2EvaGQxLzk3MzAzODY1MjYyMzguanBnfDVhM2Y0NDM1ZWRmYWNmZTU2OGMzZjQzOWJjMWMxMzBlODcxMmUzMTg2OGJjMTc3ZGZmNmU2MzdhMzAxY2M3NGQ&w=1920</lap:gambar>
 		<lap:nama>LENOVO Legion Y530-15ICH 81FV0110ID - Black</lap:nama> 
 		<lap:vga>NVIDIA GeForce GTX1050 Ti 4GB</lap:vga>
 		<lap:processor>Intel Core i5-8300H</lap:processor>
